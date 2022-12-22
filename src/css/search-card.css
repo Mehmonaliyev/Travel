@@ -1,0 +1,26 @@
+.search-card{
+    width: 18rem !important;
+}
+
+.marqu{
+    width: 45% !important;
+    min-height: 200px !important;
+    margin: 5% auto !important;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+@media screen and (max-width:426px) {
+    .marqu{
+        font-size: 90%;
+    }
+}
+.row{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+}
+
+/* Loading */
